@@ -1,0 +1,24 @@
+<keymap version="1" name="macOS Greg" parent="Mac OS X 10.5+">
+  <action id=":cursive.repl.actions/run-last-sexp">
+    <keyboard-shortcut first-keystroke="shift meta colon" />
+  </action>
+  <action id="ActivateClojureDepsToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateREPLToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
+  <action id="HideActiveWindow" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+</keymap>
