@@ -17,8 +17,20 @@
   <action id="Adtui.ZoomToActualAction">
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="HideActiveWindow" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="shift quotedbl" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="shift 5" />
   </action>
 </keymap>
