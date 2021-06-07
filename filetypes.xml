@@ -1,0 +1,31 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="31_homebrew_casks" type="AUTO_DETECTED" />
+      <mapping pattern="install_android_dev_tools" type="AUTO_DETECTED" />
+      <mapping pattern="00_apply_basic_settings" type="AUTO_DETECTED" />
+      <mapping pattern="run_when_changed" type="AUTO_DETECTED" />
+      <mapping pattern="01_apply_default_settings" type="AUTO_DETECTED" />
+      <mapping pattern="commonrc" type="AUTO_DETECTED" />
+      <mapping pattern="20_app_store_apps" type="AUTO_DETECTED" />
+      <mapping pattern="git-close-branch" type="AUTO_DETECTED" />
+      <mapping pattern="24_homebrew_fonts" type="AUTO_DETECTED" />
+      <mapping pattern="set_finder_preferences" type="AUTO_DETECTED" />
+      <mapping pattern="set_system_preferences_misc" type="AUTO_DETECTED" />
+      <mapping pattern="install_dotfiles_deps" type="AUTO_DETECTED" />
+      <mapping pattern="23_homebrew_android" type="AUTO_DETECTED" />
+      <mapping pattern="set_computer_name" type="AUTO_DETECTED" />
+      <mapping pattern="31_homebrew_formulas" type="AUTO_DETECTED" />
+      <mapping pattern="set_other_apps_preferences" type="AUTO_DETECTED" />
+      <mapping pattern="00_apply_default_settings" type="AUTO_DETECTED" />
+      <mapping pattern="rcrc" type="AUTO_DETECTED" />
+      <mapping pattern=".terraform-version" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="0_x5" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
+      <mapping ext="bom" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
