@@ -13,6 +13,9 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="100" />
+  </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
