@@ -17,6 +17,7 @@
   <action id="Adtui.ZoomToActualAction">
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="CheckinProject" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
@@ -32,5 +33,12 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="shift 5" />
+  </action>
+  <action id="Vcs.Push" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="l" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="h" />
   </action>
 </keymap>
