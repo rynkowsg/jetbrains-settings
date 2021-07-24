@@ -3,5 +3,6 @@
     <option name="separateREPLItems" value="true" />
     <option name="echoFormsToRepl" value="false" />
     <option name="structuralStyle" value="1" />
+    <option name="confirmReplExit" value="false" />
   </component>
 </application>
