@@ -2,6 +2,7 @@
   <ClojureCodeStyleSettings>{
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/one-space-lists true
+  :melon.fx.db2-repo/last-rate-date 0
 }</ClojureCodeStyleSettings>
   <HCL-Terraform>
     <option name="PROPERTY_ALIGNMENT" value="2" />
