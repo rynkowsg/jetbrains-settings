@@ -24,7 +24,14 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="EditorTab" />
+  <action id="EmacsStyleIndent">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="HideActiveWindow" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
