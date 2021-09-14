@@ -3,7 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.clj</mask>
+    <option name="FILE_MASK" value="*.clj" />
     <mask>*.cljc</mask>
+    <mask>*.clj</mask>
   </component>
 </application>
