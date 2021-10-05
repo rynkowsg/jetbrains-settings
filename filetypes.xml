@@ -11,6 +11,7 @@
       <mapping pattern=".java-version" type="PLAIN_TEXT" />
       <mapping pattern=".terraform-version" type="PLAIN_TEXT" />
       <mapping ext="nzb" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="psd" approved="true" type="Image" />
