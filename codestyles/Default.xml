@@ -4,10 +4,6 @@
   :cursive.formatting/one-space-lists true
   :melon.fx.db2-repo/last-rate-date 0
 }</ClojureCodeStyleSettings>
-  <HCL-Terraform>
-    <option name="PROPERTY_ALIGNMENT" value="2" />
-    <option name="PROPERTY_LINE_COMMENTER_CHARACTER" value="1" />
-  </HCL-Terraform>
   <JetCodeStyleSettings>
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
