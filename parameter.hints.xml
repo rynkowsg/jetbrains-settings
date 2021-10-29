@@ -4,6 +4,7 @@
     <disabledLanguages>
       <language id="JAVA" />
       <language id="XML" />
+      <language id="kotlin" />
       <language id="Groovy" />
     </disabledLanguages>
   </component>
