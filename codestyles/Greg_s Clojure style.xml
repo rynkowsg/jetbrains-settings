@@ -1,4 +1,8 @@
-<code_scheme name="Default" version="173">
+<code_scheme name="Greg's Clojure style" version="173">
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/align-binding-forms true
+  :cursive.formatting/one-space-lists true
+}</ClojureCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value />
@@ -6,6 +10,9 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
