@@ -1,0 +1,28 @@
+<templateSet group="Greg Rynkowski">
+  <template name="test" value="@Test&#10;fun test() {&#10;    // given&#10;    // when&#10;    // then&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="testClass" value="class TestClass {&#10;&#10;    @Test&#10;    fun test() {&#10;        // given&#10;        // when&#10;        // then&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="testCo" value="@Test&#10;fun test() = runBlockingTest {&#10;    // given&#10;    // when&#10;    // then&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+</templateSet>

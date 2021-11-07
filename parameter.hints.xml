@@ -1,7 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <disabledLanguages>
-      <language id="Clojure" />
+      <language id="JAVA" />
+      <language id="XML" />
+      <language id="kotlin" />
+      <language id="Groovy" />
     </disabledLanguages>
   </component>
 </application>

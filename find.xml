@@ -2,8 +2,19 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.cljc</mask>
-    <mask>*.clj</mask>
+    <mask>*Test.kt</mask>
+    <mask>*Activity.kt</mask>
+    <mask>*.gradle</mask>
+    <mask>*.adoc</mask>
+    <mask>*.kt</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
