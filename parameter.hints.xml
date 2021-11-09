@@ -6,6 +6,7 @@
       <language id="XML" />
       <language id="kotlin" />
       <language id="Groovy" />
+      <language id="yaml" />
     </disabledLanguages>
   </component>
 </application>
