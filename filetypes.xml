@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="kaocha" type="AUTO_DETECTED" />
-      <mapping pattern="release" type="AUTO_DETECTED" />
       <mapping pattern="tee" type="AUTO_DETECTED" />
       <mapping pattern="brew" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
